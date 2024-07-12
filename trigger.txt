@@ -15,3 +15,5 @@ ubuntu/squid:latest registry.cn-guangzhou.aliyuncs.com/huidin-dify/squid:latest
 langgenius/dify-web:0.6.13 registry.cn-guangzhou.aliyuncs.com/huidin-dify/dify-web:0.6.13
 
 searxng/searxng:latest registry.cn-guangzhou.aliyuncs.com/huidin-dify/searxng:latest
+
+valkey/valkey:7-alpine registry.cn-guangzhou.aliyuncs.com/huidin-dify/valkey:7-alpine

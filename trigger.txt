@@ -17,3 +17,5 @@ langgenius/dify-web:0.6.13 registry.cn-guangzhou.aliyuncs.com/huidin-dify/dify-w
 searxng/searxng:latest registry.cn-guangzhou.aliyuncs.com/huidin-dify/searxng:latest
 valkey/valkey:7-alpine registry.cn-guangzhou.aliyuncs.com/huidin-dify/valkey:7-alpine
 library/caddy:2-alpine registry.cn-guangzhou.aliyuncs.com/huidin-dify/caddy:2-alpine
+
+whyour/qinglong:latest registry.cn-guangzhou.aliyuncs.com/huidin-dify/qinglong:latest

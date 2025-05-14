@@ -1,1 +1,1 @@
-nacos-group/nacos-docker registry.cn-guangzhou.aliyuncs.com/huidin-dify/nacos-docker
+nacos/nacos-server registry.cn-guangzhou.aliyuncs.com/huidin-dify/nacos-server

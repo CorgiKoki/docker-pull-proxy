@@ -19,3 +19,5 @@ valkey/valkey:7-alpine registry.cn-guangzhou.aliyuncs.com/huidin-dify/valkey:7-a
 library/caddy:2-alpine registry.cn-guangzhou.aliyuncs.com/huidin-dify/caddy:2-alpine
 
 whyour/qinglong:latest registry.cn-guangzhou.aliyuncs.com/huidin-dify/qinglong:latest
+
+nacos-group/nacos-docker:latest registry.cn-guangzhou.aliyuncs.com/huidin-dify/nacos-docker:latest
